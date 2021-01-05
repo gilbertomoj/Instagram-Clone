@@ -1,2 +1,2 @@
 # Instagram-Clone
- Clone do instagram realizado no bootcamp da AVENADE-DIO 
+ Clone do instagram realizado no bootcamp da AVANADE-DIO 
